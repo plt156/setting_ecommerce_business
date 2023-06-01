@@ -4,7 +4,11 @@
 ---
 
 ## About the store
+"Pretty Little Things" offers handmade soaps, scented candles, and unique resin products crafted with love. Each piece is one-of-a-kind, exclusively made by hand to provide you with an enjoyable and sensory experience. Indulge in the beauty of her creations. Her products are absolutely safe for use as her products are environment friendly and toxins free. 
 
+[Brochure](https://github.com/plt156/website/files/10762306/plt_pricing.1.pdf) | [Etsy](https://prettylittlethingsab.etsy.com) |  [Amazon](https://bit.ly/amazonplt) | [Flipkart](https://bit.ly/flipkartplt156) | [Instagram](https://www.instagram.com/prettylittlethings.24/)
+
+![image](https://github.com/plt156/setting_ecommerce_business/assets/2136211/569b9ecd-7afb-42f3-92e9-2f107818a0ec) | ![image](https://github.com/plt156/setting_ecommerce_business/assets/2136211/211c8ab1-d724-44eb-b796-45da40b89706)
 
 ---
 
