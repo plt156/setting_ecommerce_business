@@ -12,12 +12,24 @@
 
 ---
 
-## Complainces
+## Education on complainces
+
 ### GST
-### Amazon
-### Flipkart
+Prerequisite  to get your head into the online game.
+[Udemy Course](https://www.udemy.com/share/103zjM3@D_XWcTA6VqkFa_wWzekfn2O8KIQuYLfWF3lEn1STCxfOD_ewKR39A_Lg3YunL_Qm/)
+
+### Amazon & Etsy & Flipkart
+Etsy (Marketplace for home based businesses - US,UK,AUS buyers mostly), Amazon/Flipkart (40% of India shops here)
+[CourseEnvy](https://www.udemy.com/share/101Yas3@3ni9VKmDY83dLnoimjv9RFerhzg8KYf5AM7RQYiaDWMCUQzn6w4Yi5m86BRudBKp/) , [GregMercer Course](https://www.udemy.com/share/102aHY3@GCz0xZjCPwRPmSqqA34Oawzoifgs8RipaDLV-6Abx5CuktErCKX-OTDUT7vAtpke/) , [400+ episodes of BrandCreators Podcast](https://www.brandcreators.com/), [Flipkart Course](https://www.udemy.com/share/103P5K3@dyRO1QwKieIVRzkR6am1veRRwH10lXTnplUzoHozmARYwo45BE1D0TkJE0haUdt1/)
+
+--
+
 ### Brand Registry
+In order to get your own brand store like [image](https://github.com/plt156/setting_ecommerce_business/assets/2136211/e0997c80-82fb-4243-8ba0-dbb503fe5034)
+[Basics Video](https://youtu.be/mX-M-TBY_8o), [IP Accelerator Video](https://youtu.be/HBiycYWR0Nk), [A+ Content Video](https://youtu.be/6RFLWIZyXhI)
+
 ### Shipping
+[Shiprocket Video](https://youtu.be/UvoFksUwA5w), [International Video](https://youtu.be/o-VosOP-37I), [Import Export License Video](https://youtu.be/TOF3ats2xZU)
 
 ---
 
