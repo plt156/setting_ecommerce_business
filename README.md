@@ -38,9 +38,37 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 1. Background Remover
 2. Image Metadata
 3. Image Rectification
-4. Image Resising
+4. Image Resizing
 5. Image Formats
 6. Image Generator
+7. Pattern Generator
+
+--
+
+1. Background Remover - Azure Cognitive vision studio
+![BackgroundRemover](/assets/backgroundRemoval.gif)
+
+--
+
+2. Image Metadata - Azure Cognitive vision studio
+
+<img width="45%" src="assets/lightCaptioning.gif"/> | <img width="45%" src="assets/denseCaptioning.gif">
+
+--
+
+3. Image Rectification
+
+--
+
+4. Image Resizing bulkimagecrop.com
+
+<img width="65%" src="assets/bulkImgCrop.gif"/>
+
+--
+
+7. Pattern Generator patterned.ai or stockimg.ai 
+
+<img width="45%"  src="assets/genPattern.gif"/> | <img width="45%" src="assets/stockImgGenerator.gif">
 
 ---
 
