@@ -1,4 +1,25 @@
-# Setting up an ecommerce business in the current era
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create three equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+
+# Creating a startup from Scratch
 <small>How I managed to help my wife torset up an ecommence (Amazon/Flipkart/Etsy) business centered around candles, soaps & resin items.</small>
 
 ---
@@ -42,33 +63,44 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 5. Image Formats
 6. Image Generator
 7. Pattern Generator
+8. 2 Minutes Brochure
 
 --
 
 1. Background Remover - Azure Cognitive vision studio
-![BackgroundRemover](/assets/backgroundRemoval.gif)
+![BackgroundRemover](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/backgroundRemoval.gif?raw=true)  
 
 --
 
 2. Image Metadata - Azure Cognitive vision studio
 
-<img width="45%" src="assets/lightCaptioning.gif"/> | <img width="45%" src="assets/denseCaptioning.gif">
+<img width="45%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/lightCaptioning.gif?raw=true"/> | <img width="45%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/denseCaptioning.gif?raw=true">
 
 --
 
 3. Image Rectification
 
+[Video of adding missing elements in image](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/aiAssetGenerator.gif?raw=true)
+
 --
 
-4. Image Resizing bulkimagecrop.com
+1. Image Resizing bulkimagecrop.com
 
-<img width="65%" src="assets/bulkImgCrop.gif"/>
+<img width="65%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/bulkImgCrop.gif?raw=true"/>
 
 --
 
 7. Pattern Generator patterned.ai or stockimg.ai 
 
-<img width="45%"  src="assets/genPattern.gif"/> | <img width="45%" src="assets/stockImgGenerator.gif">
+<img width="45%"  src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/genPattern.gif?raw=true"/> | <img width="45%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/stockImgGenerator.gif?raw=true">
+
+--
+
+1. 2 minutes Brochure
+
+[Create a brochure using Canva](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/quickBrochureCreate.gif?raw=true)
+
+![Our Other creations](https://github.com/plt156/website/assets/2136211/25ccacce-2f94-4d78-9fc6-b3f704acd7bf)
 
 ---
 
@@ -76,20 +108,93 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 1. ChatGpt
 - Listing
 - Blog
-- Keywords
+- Website
 - Insta hashtag
 
 2. Copy writing
 
+--
+
+#### Listing
+
+<h2>Using Chat GPT</h2>
+
+<div class="row">
+  <div class="column">
+    <h2>Etsy Liting</h2>
+    <img   src="https://github.com/plt156/website/assets/2136211/148baf73-fff5-4f0d-a195-8570eb23c95b"/>
+  </div>
+  <div class="column">
+    <h2>Keywords</h2>
+    <img   src="https://github.com/plt156/website/assets/2136211/8f20fc50-262f-43cb-9d92-5813af312128"/>
+  </div>
+  <div class="column" >
+    <h2>Amazon Listing</h2>
+    <img  src="https://github.com/plt156/website/assets/2136211/a0d5fc6e-1765-4d83-85fa-c40c19d04e3e"/>
+  </div>
+</div>
+
+--
+
+#### Blog
+
+[Example Blog](https://plt156.github.io/plt-blog/) using Jekyll and github hosting
+
+<h2>Steps</h2>
+<div class="row">
+  <div class="column">
+    <h2>1. Record Conversation with consent</h2>
+    <img   src="https://www.androidauthority.com/wp-content/uploads/2018/10/ASR-Voice-Reccorder-screenshot-2019-1198x675.jpg.webp"/>
+  </div>
+  <div class="column">
+    <h2>2. Convert Audio to text using Cognitive Service</h2>
+    <p>Create new dotnet project, add <a href="https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/from-file/helloworld/Program.cs" target="_blank">this file</a>, nuget install, change Subscription Key from Azure Portal, Give path to wave file. Save text file</p>
+  </div>
+  <div class="column" >
+    <h2>3. Ask Chat gpt to generate structured blog</h2>
+    <img  src="https://github.com/plt156/website/assets/2136211/1ce6b8ed-0fe2-432e-b7ef-9c2ef6d98751"/>
+  </div>
+</div>
+
+--
+
+#### Website
+
+<div class="row">
+  <div class="column">
+    <h2>Generate Terms of Conditions</h2>
+    <img   src="https://github.com/plt156/website/assets/2136211/4fc104f9-d2cb-4bd1-89b4-3a436bd3ae8f"/>
+  </div>
+  <div class="column">
+    <h2>Hire Interns</h2>
+    <p>Hire Interns from Timbukdo for Content, copy pasting, Use Chat GPT</p>
+    <img   src="https://github.com/plt156/website/assets/2136211/7640f665-76e6-4108-9d03-561cc083980d"/>
+  </div>
+  <div class="column" >
+    <p>Easy Ecommerce website</p><a href="https://o2vend.com/" target="_blank"> Using O2Vend</a>
+  </div>
+</div>
+
+--
+
+#### Instagram
+
+<div class="row">
+  <div class="column">
+    <h2>Chat GPT Instagram Post</h2>
+    <img   src="https://github.com/plt156/website/assets/2136211/7f0fa970-8d92-4972-b766-a3635763933e"/>
+  </div>
+  <div class="column">
+    <h2>Use Microsoft Clipchamp to make Video</h2>
+    
+  </div>
+  <div class="column" >
+    
+  </div>
+</div>
+
 ---
 
-### Video
-- Instagram Reels
-- Youtube VIdeos
-- Editing Videos
-- Usecase demos
-
----
 
 ### Ads
 
