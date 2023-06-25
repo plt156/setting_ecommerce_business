@@ -117,19 +117,19 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 #### Listing
 
-<h2>Using Chat GPT</h2>
+<h6>Using Chat GPT</h6>
 
 <div class="row">
   <div class="column">
-    <h2>Etsy Liting</h2>
+    <h6>Etsy Liting</h6>
     <img   src="https://github.com/plt156/website/assets/2136211/148baf73-fff5-4f0d-a195-8570eb23c95b"/>
   </div>
   <div class="column">
-    <h2>Keywords</h2>
+    <h6>Keywords</h6>
     <img   src="https://github.com/plt156/website/assets/2136211/8f20fc50-262f-43cb-9d92-5813af312128"/>
   </div>
   <div class="column" >
-    <h2>Amazon Listing</h2>
+    <h6>Amazon Listing</h6>
     <img  src="https://github.com/plt156/website/assets/2136211/a0d5fc6e-1765-4d83-85fa-c40c19d04e3e"/>
   </div>
 </div>
@@ -140,18 +140,18 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 [Example Blog](https://plt156.github.io/plt-blog/) using Jekyll and github hosting
 
-<h2>Steps</h2>
+<h6>Steps</h6>
 <div class="row">
   <div class="column">
-    <h2>1. Record Conversation with consent</h2>
+    <h6>1. Record Conversation with consent</h6>
     <img   src="https://www.androidauthority.com/wp-content/uploads/2018/10/ASR-Voice-Reccorder-screenshot-2019-1198x675.jpg.webp"/>
   </div>
   <div class="column">
-    <h2>2. Convert Audio to text using Cognitive Service</h2>
+    <h6>2. Convert Audio to text using Cognitive Service</h6>
     <p>Create new dotnet project, add <a href="https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/from-file/helloworld/Program.cs" target="_blank">this file</a>, nuget install, change Subscription Key from Azure Portal, Give path to wave file. Save text file</p>
   </div>
   <div class="column" >
-    <h2>3. Ask Chat gpt to generate structured blog</h2>
+    <h6>3. Ask Chat gpt to generate structured blog</h6>
     <img  src="https://github.com/plt156/website/assets/2136211/1ce6b8ed-0fe2-432e-b7ef-9c2ef6d98751"/>
   </div>
 </div>
@@ -162,11 +162,11 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 <div class="row">
   <div class="column">
-    <h2>Generate Terms of Conditions</h2>
+    <h6>Generate Terms of Conditions</h6>
     <img   src="https://github.com/plt156/website/assets/2136211/4fc104f9-d2cb-4bd1-89b4-3a436bd3ae8f"/>
   </div>
   <div class="column">
-    <h2>Hire Interns</h2>
+    <h6>Hire Interns</h6>
     <p>Hire Interns from Timbukdo for Content, copy pasting, Use Chat GPT</p>
     <img   src="https://github.com/plt156/website/assets/2136211/7640f665-76e6-4108-9d03-561cc083980d"/>
   </div>
@@ -181,11 +181,11 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 <div class="row">
   <div class="column">
-    <h2>Chat GPT Instagram Post</h2>
+    <h6>Chat GPT Instagram Post</h6>
     <img   src="https://github.com/plt156/website/assets/2136211/7f0fa970-8d92-4972-b766-a3635763933e"/>
   </div>
   <div class="column">
-    <h2>Use Microsoft Clipchamp to make Video</h2>
+    <h6>Use Microsoft Clipchamp to make Video</h6>
     
   </div>
   <div class="column" >
