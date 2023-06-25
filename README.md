@@ -105,13 +105,12 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 ---
 
 ### Text
+
 1. ChatGpt
 - Listing
 - Blog
 - Website
 - Insta hashtag
-
-2. Copy writing
 
 --
 
