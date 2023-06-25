@@ -80,7 +80,7 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 3. Image Rectification
 
-[Video of adding missing elements in image](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/aiAssetGenerator.gif?raw=true)
+<img width="65%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/aiAssetGenerator.gif?raw=true"/>
 
 --
 
@@ -107,6 +107,7 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 ### Text
 
 1. ChatGpt
+
 - Listing
 - Blog
 - Website
@@ -147,7 +148,7 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
   </div>
   <div class="column">
     <small>2. Convert Audio to text using Cognitive Service</small>
-    <p>Create new dotnet project, add <a href="https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/from-file/helloworld/Program.cs" target="_blank">this file</a>, nuget install, change Subscription Key from Azure Portal, Give path to wave file. Save text file</p>
+    <small>Create new dotnet project, add <a href="https://github.com/Azure-Samples/cognitive-services-speech-sdk/blob/master/quickstart/csharp/dotnet/from-file/helloworld/Program.cs" target="_blank">this file</a>, nuget install, change Subscription Key from Azure Portal, Give path to wave file. Save text file</small>
   </div>
   <div class="column" >
     <small>3. Ask Chat gpt to generate structured blog</small>
@@ -166,11 +167,11 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
   </div>
   <div class="column">
     <small>Hire Interns</small>
-    <p>Hire Interns from Timbukdo for Content, copy pasting, Use Chat GPT</p>
+    <small>Hire Interns from Timbukdo for Content, copy pasting, Use Chat GPT</small>
     <img   src="https://github.com/plt156/website/assets/2136211/7640f665-76e6-4108-9d03-561cc083980d"/>
   </div>
   <div class="column" >
-    <p>Easy Ecommerce website</p><a href="https://o2vend.com/" target="_blank"> Using O2Vend</a>
+    <small>Easy Ecommerce website</small><a href="https://o2vend.com/" target="_blank"> Using O2Vend</a>
   </div>
 </div>
 
@@ -188,7 +189,8 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
     <img src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/quickClipChampVideo.gif?raw=true"/>
   </div>
   <div class="column" >
-    
+    <small>Use Lumen5 to convert text to presentation</small>
+    <img src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/textToPresentationUsingLumen5.gif?raw=true"/>
   </div>
 </div>
 
