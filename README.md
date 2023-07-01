@@ -54,8 +54,8 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 ---
 
-## How to use various tools (Al/non Al)
-### Images
+## Tools (Al/non Al)
+<small>Images</small>
 1. Background Remover
 2. Image Metadata
 3. Image Rectification
@@ -107,15 +107,13 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 9. Object Remover
 
-https://magicstudio.com/magiceraser/ remove object
+https://magicstudio.com/magiceraser/ remove object. Open ctrl shift I. In console type
 
 ```
-Open ctrl shift I, in console type
 function convertCanvasToImage() {let canvas = document.getElementById("magicEraserCanvas");  let image = new Image(); image.src = canvas.toDataURL();  return image;}
-let pnGImage = convertCanvasToImage();
-copy base64 src of PnGImage
+let pnGImage = convertCanvasToImage(); //copy base64 src of PnGImage
 ---
-convert base64 to image via https://codebeautify.org/base64-to-image-converter or powershell
+convert base64 to image via [codebeautify](https://codebeautify.org/base64-to-image-converter) or powershell
 
 ### Text
 
