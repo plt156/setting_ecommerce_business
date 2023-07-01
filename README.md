@@ -112,8 +112,10 @@ https://magicstudio.com/magiceraser/ remove object. Open ctrl shift I. In consol
 ```
 function convertCanvasToImage() {let canvas = document.getElementById("magicEraserCanvas");  let image = new Image(); image.src = canvas.toDataURL();  return image;}
 let pnGImage = convertCanvasToImage(); //copy base64 src of PnGImage
----
+```
 convert base64 to image via [codebeautify](https://codebeautify.org/base64-to-image-converter) or powershell
+
+---
 
 ### Text
 
