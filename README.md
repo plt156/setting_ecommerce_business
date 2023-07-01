@@ -64,6 +64,7 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 6. Image Generator
 7. Pattern Generator
 8. 2 Minutes Brochure
+9. Object Remover
 
 --
 
@@ -96,13 +97,25 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 --
 
-1. 2 minutes Brochure
+8. 2 minutes Brochure
 
 [Create a brochure using Canva](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/quickBrochureCreate.gif?raw=true)
 
 ![Our Other creations](https://github.com/plt156/website/assets/2136211/25ccacce-2f94-4d78-9fc6-b3f704acd7bf)
 
+--
+
+9. Object Remover
+
+https://magicstudio.com/magiceraser/ remove object
+
+```
+Open ctrl shift I, in console type
+function convertCanvasToImage() {let canvas = document.getElementById("magicEraserCanvas");  let image = new Image(); image.src = canvas.toDataURL();  return image;}
+let pnGImage = convertCanvasToImage();
+copy base64 src of PnGImage
 ---
+convert base64 to image via https://codebeautify.org/base64-to-image-converter or powershell
 
 ### Text
 
