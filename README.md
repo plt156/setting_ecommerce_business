@@ -33,11 +33,19 @@
 
 ---
 
+## Mindmap
+![image](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/Startup.png?raw=true)
+
+
+---
+
 ## Education on complainces
 
 ### GST
 Prerequisite  to get your head into the online game.
 [Udemy Course](https://www.udemy.com/share/103zjM3@D_XWcTA6VqkFa_wWzekfn2O8KIQuYLfWF3lEn1STCxfOD_ewKR39A_Lg3YunL_Qm/)
+
+--
 
 ### Amazon & Etsy & Flipkart
 Etsy (Marketplace for home based businesses - US,UK,AUS buyers mostly), Amazon/Flipkart (40% of India shops here)
@@ -48,6 +56,8 @@ Etsy (Marketplace for home based businesses - US,UK,AUS buyers mostly), Amazon/F
 ### Brand Registry
 In order to get your own brand store like [image](https://github.com/plt156/setting_ecommerce_business/assets/2136211/e0997c80-82fb-4243-8ba0-dbb503fe5034)
 [Basics Video](https://youtu.be/mX-M-TBY_8o), [IP Accelerator Video](https://youtu.be/HBiycYWR0Nk), [A+ Content Video](https://youtu.be/6RFLWIZyXhI)
+
+--
 
 ### Shipping
 [Shiprocket Video](https://youtu.be/UvoFksUwA5w), [International Video](https://youtu.be/o-VosOP-37I), [Import Export License Video](https://youtu.be/TOF3ats2xZU)
@@ -65,6 +75,7 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 7. Pattern Generator
 8. 2 Minutes Brochure
 9. Object Remover
+10. Image extender
 
 --
 
@@ -81,13 +92,13 @@ In order to get your own brand store like [image](https://github.com/plt156/sett
 
 3. Image Rectification
 
-<img width="65%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/aiAssetGenerator.gif?raw=true"/>
+<img width="75%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/aiAssetGenerator.gif?raw=true"/>
 
 --
 
 1. Image Resizing bulkimagecrop.com
 
-<img width="65%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/bulkImgCrop.gif?raw=true"/>
+<img width="75%" src="https://github.com/plt156/setting_ecommerce_business/blob/master/assets/bulkImgCrop.gif?raw=true"/>
 
 --
 
@@ -114,6 +125,14 @@ function convertCanvasToImage() {let canvas = document.getElementById("magicEras
 let pnGImage = convertCanvasToImage(); //copy base64 src of PnGImage
 ```
 convert base64 to image via [codebeautify](https://codebeautify.org/base64-to-image-converter) or powershell
+
+--
+
+10. Image extender
+
+<small>Runwayml to extend a small image. Most sites have strict size requirements. Like Bannersize. </small>
+
+[Video - Entend Image Using Runway ML](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/extendImage.gif?raw=true)
 
 ---
 
