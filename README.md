@@ -230,7 +230,50 @@ convert base64 to image via [codebeautify](https://codebeautify.org/base64-to-im
 
 
 ### Ads
+- Google Ads
+- Amazon Ads/Flipkart Ads
+- Etsy Ads
+- Instagram Ads/Facebook Ads
+- Merchantwords/ChatGpt - Keyword research
+
+[Video - Google Keyword Planner](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/googleKeywordPlanner.gif?raw=true)
+
+---
+
+### Competitor Analysis
+- [Simple brainstorming on Git](https://github.com/plt156/website/issues/1)
+- [Helium 10, Jungle Scout, Everbee](https://www.coursenvy.com/post/helium10)
+
+[Video - Everbee Competitor Analysis](https://github.com/plt156/setting_ecommerce_business/blob/master/assets/everBeeCompetitor.gif?raw=true)
+
 
 ---
 
 ### Raw material sourcing
+- Alibaba.com / AliExpress - Look for Gold sellers/1yr/reviews. MOQ
+- IndiaMart (Indian Manufacturers), Startup India
+- Thomasnet/Makersrow (US Manufacturers)
+
+Hire Inspectors (Asia Inspection, TUV, SGS) to vist that factory.
+
+Order only samples first (pay for product and shipping). 
+
+---
+
+### Accouting
+- Apply for GST first
+- Apply for Current Account , [see my research](https://github.com/plt156/website/issues/2)
+- Apply for IEC/Import Export.
+- Enroll on Yakit, Shiprocket for cheap logistics 
+- Free Invoicing - Zoho Books (important before you go to Sharktank)
+- Master product catalog with few upcs.com to be procured (for Amazon)
+
+---
+
+### Grants
+- Make a business Plan (Executive Summary,SWOT, Products, Marketing, Competitor, Plan, Numbers)
+- Apply for free Cloud Credit [MS Accelerate](https://www.microsoft.com/en-us/startups)
+- [Facebook startup](https://www.facebook.com/business/plan)
+- Current Accout allows you with more leverage. Credit card - can be brutal at times. 
+- [Enroll in startup india ecosystems](https://seedfund.startupindia.gov.in/)
+- Go to in person e-Chai meetups. 
